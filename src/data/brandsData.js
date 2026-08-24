@@ -1,0 +1,72 @@
+export const BRANDS_DATA = [
+  {
+    id: 'yamaha',
+    name: 'Yamaha',
+    country: 'Japan',
+    founded: 1955,
+    tagline: 'Revs Your Heart',
+    description: 'World-renowned Japanese manufacturer celebrated for championship MotoGP racing, unrivaled crossplane engines, and precision engineering across supersport, naked, and adventure categories.',
+    color: '#003087',
+    badgeBg: '#eff6ff',
+    badgeText: '#1d4ed8',
+    logo: 'https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=600&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=1200&q=80',
+    popularModels: ['YZF-R1', 'MT-09 SP', 'Ténéré 700', 'YZF-R7', 'MT-10']
+  },
+  {
+    id: 'kawasaki',
+    name: 'Kawasaki',
+    country: 'Japan',
+    founded: 1896,
+    tagline: 'Let the Good Times Roll',
+    description: 'Synonymous with raw power and aggressive Sugomi styling, Kawasaki crafts iconic supercharged hyperbikes, championship-dominating Ninja supersports, and versatile adventure machines.',
+    color: '#66cc00',
+    badgeBg: '#f0fdf4',
+    badgeText: '#15803d',
+    logo: 'https://images.unsplash.com/photo-1571607388263-1044f9ea01dd?auto=format&fit=crop&w=600&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1609630875171-b1321377ee65?auto=format&fit=crop&w=1200&q=80',
+    popularModels: ['Ninja ZX-10R', 'Ninja H2', 'Z900', 'Versys 1000', 'Ninja 400']
+  },
+  {
+    id: 'honda',
+    name: 'Honda',
+    country: 'Japan',
+    founded: 1948,
+    tagline: 'The Power of Dreams',
+    description: 'The world’s largest motorcycle builder, celebrated for legendary reliability, smooth inline-four engines, Dakar-winning Africa Twins, and razor-sharp CBR Fireblade superbikes.',
+    color: '#cc0000',
+    badgeBg: '#fef2f2',
+    badgeText: '#b91c1c',
+    logo: 'https://images.unsplash.com/photo-1591637333184-19aa84b3e01f?auto=format&fit=crop&w=600&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=1200&q=80',
+    popularModels: ['CBR1000RR-R Fireblade', 'CRF1100L Africa Twin', 'CB650R', 'Rebel 1100', 'CB1000R']
+  },
+  {
+    id: 'aprilia',
+    name: 'Aprilia',
+    country: 'Italy',
+    founded: 1945,
+    tagline: 'be a racer',
+    description: 'Italian thoroughbred racing pedigree with 54 world championship titles, featuring revolutionary 65° V4 engines, class-leading APRC electronic rider aids, and track-conquering chassis dynamics.',
+    color: '#111827',
+    badgeBg: '#f3f4f6',
+    badgeText: '#1f2937',
+    logo: 'https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=600&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1615172282427-9a57ef2d142e?auto=format&fit=crop&w=1200&q=80',
+    popularModels: ['RSV4 Factory 1100', 'Tuono V4 Factory', 'RS 660', 'Tuareg 660', 'Tuono 660']
+  },
+  {
+    id: 'ducati',
+    name: 'Ducati',
+    country: 'Italy',
+    founded: 1926,
+    tagline: 'Style, Sophistication, Performance',
+    description: 'Bologna’s pinnacle of exotic performance and Italian craftsmanship. Renowned for Desmodromic valves, ferocious Desmosedici Stradale V4 engines, and iconic scarlet bodywork.',
+    color: '#cc0000',
+    badgeBg: '#fff1f2',
+    badgeText: '#be123c',
+    logo: 'https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=600&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1609630875171-b1321377ee65?auto=format&fit=crop&w=1200&q=80',
+    popularModels: ['Panigale V4 S', 'Streetfighter V4', 'Monster Plus', 'Multistrada V4 S', 'Diavel V4']
+  }
+];
